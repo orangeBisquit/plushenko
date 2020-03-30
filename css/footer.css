@@ -1,0 +1,85 @@
+.site-footer {
+    background: #fff;
+    padding: 7px 0 0px 0;
+    font-size: 14px;
+    color: #28313b;
+}
+
+.site-footer .block-370 {
+    padding-top: 15px;
+}
+
+.site-footer h1,
+.site-footer h2,
+.site-footer h3,
+.site-footer h4 {
+    font-size: 16px;
+    color: #ff5912;
+
+}
+
+.footer-logo {
+	margin-left: 1px;
+}
+
+.copyright {
+    margin-top: 10px;
+}
+
+ul.footer-nav a {
+    color: #28313b;
+    text-decoration: none;
+}
+
+ul.footer-nav a:hover {
+    color: #ff5912;
+    text-decoration: none;
+}
+
+ul.footer-nav li {
+    margin-bottom: 15px;
+}
+
+.payment-image {
+    width: 170px;
+    height: 17px;
+    background-image: url(../images/payment_bg.png);
+}
+
+.block-170 h4 {
+    text-align: left;
+    margin: 15px 0;
+}
+
+
+.red {
+    background: red;
+}
+
+.payment-img {
+    width: 25px;
+    height: 17px;
+    /* background-color: red; */
+    background-image: url('../images/payment_bg.png');
+    display: inline-block;
+}
+
+.amex {
+    background-position: -1px -1px;
+}
+
+.second {
+    background-position: -36px -1px;
+}
+
+.visa {
+    background-position: -72px -1px;
+}
+
+.mastercard {
+    background-position: -108px -1px;
+}
+
+.gray {
+    background-position: -144px -1px;
+}

@@ -1,0 +1,112 @@
+.site-header {
+	background: #fff;
+/*	margin-bottom: 20px;*/
+}
+
+.site-header a {
+	color: #34404b;
+	text-decoration: none;
+	display: inline-block;
+}
+
+.site-header a:hover {
+	color: #ff5912;
+	text-decoration: none;	
+}
+
+.header-line {
+	padding: 10px;
+	border-bottom: 1px solid #edeff1;
+}
+
+.header-line .block-570 {
+	min-height: auto;
+	position: relative;
+	left: -6px;
+}
+
+.header-line .header-ico {
+	margin: 0 9px;
+}
+
+.container {
+	width: 1200px;
+	margin: 10px auto;
+
+
+}
+
+
+
+.main-logo {
+	margin-top: 20px;
+}
+
+
+
+.main-nav li {
+	float: left;
+	list-style-type: none;
+	margin: 14px 12px;
+	font-size: 20px;
+}
+
+.main-nav li a{
+	font-size: 20px;
+	font-weight: 500;
+}
+
+
+header .block-770 {
+	width: 64.166%;
+	float: left;
+	margin: 0 1.25%;
+	text-align: left;
+	padding-right: 30px;
+}
+
+.ico-line {
+	margin-top: 30px
+
+}
+
+.ico-line img {
+	margin: 0 12px;
+}
+
+.cart {
+	position: relative;
+}
+
+
+.ico-line a div.cart-count {
+	display: block;
+	width: 16px;
+	height: 16px;
+	background: #34404b;
+	position: absolute;
+	top: -20px;
+	left: 17px;
+	border-radius: 100%;
+	color: #fff;
+	font-size: 11px;
+	text-align: center;
+}
+
+.ico-line a div.cart-count span {
+	position: relative;
+	left: -0.5px;
+	top: 1px;
+}
+
+.contacts a {
+	margin: 0 20px 0 5px;
+}
+
+i {
+	padding-right: 6px;
+}
+
+a i::hover {
+	color: purple;
+}

@@ -1,0 +1,78 @@
+.best-sales {
+	background: #fff;
+	padding: 10px;
+}
+
+.best-sales-image {
+	width: 40%;
+}
+
+
+.best-sales-image img {
+	max-width: 60%;
+	position: relative;
+	top: 10px;
+	left: 30px;
+}
+
+.best-sales-description {
+	width: 60%;
+	float: right;
+	text-align: center;
+}
+
+.best-sales-description h4 {
+	margin: 15px 0 10px;
+}
+
+.best-sales-description .stars img {
+	max-width: 100%;
+	position: relative;
+	top: 6px;
+}
+
+.goods-header h3 {
+	m
+}
+
+
+/*--------------------- News Letter*/
+
+.letter {
+	min-height: 100px;
+	background: #fff;
+	margin: 80px 0;
+	line-height: 100px;
+}
+
+.join-us {
+	background: #ff5912;
+	color:#fff;
+	padding: 15px 25px;
+	border:none;
+}
+
+.block-670 p span {
+	color: #ff5912;
+	font-weight: bold;
+	padding:0 15px;
+}
+
+/* --------------------- Divider */
+
+.divider {
+	background: #fff;
+	margin: 0 0 50px 0;
+	line-height: 46px;
+	text-align: center;
+}
+
+.circle {
+	display: inline-block;
+	width: 10px;
+	height: 10px;
+	border-radius: 100%;
+	background: #ff5912;
+}
+
+
