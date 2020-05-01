@@ -1,1 +1,1 @@
-https://orangebisquit.github.io/shopy-beta/
+https://orangebisquit.github.io/shopy-alpha/
